@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "thinking-sphinx", ">= 1.4.1"
   s.add_dependency "riddle", ">= 1.5"
-  s.add_dependency "sidekiq", "~> 2.12.4"
+  s.add_dependency "sidekiq", "~> 2.15.0"
 
   s.add_development_dependency "rspec", "~> 2.7.0"
   s.add_development_dependency "cucumber", ">= 0"
